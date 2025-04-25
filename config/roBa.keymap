@@ -22,7 +22,7 @@
         };
 
         shift_tab {
-            bindings = <&kp LG(TAB)>;
+            bindings = <&kp LA(SPACE)>;
             key-positions = <12 13>;
         };
 
